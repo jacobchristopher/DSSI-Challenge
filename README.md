@@ -11,17 +11,10 @@
 
 ## Results 
 
+| Models               | Task 1 Accuracy   | Task 2 Accuracy   |
+|----------------------|-------------------|-------------------|
+| Decision Tree        | 84.28%            | 93.05%            |
+| Random Forest        | 95.35%            | 95.70%            |
+| Logistic Regression  | 82.73%            | 90.92%            |
+| Neural Network       | 95.99%            | 97.57%            |
 
-**Task 1 Results:**
-
-Decision Tree : 0.8428407789232532
- Random Forest : 0.9534936998854525
- Logistic Regression : 0.827262313860252 
- Neural Network : 0.9599083619702177
-
-**Task 2 Results :** 
-
-Decision Tree : 0.9305293293537187 
-Random Forest : 0.9569653408052629
-Logistic Regression : 0.9092099652798928 
-Neural Network : 0.9756959249558385
